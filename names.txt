@@ -1,0 +1,4 @@
+Hi my name is Anirban Chatterjee.
+I am a Computer Engineer.
+Currently I'm doing master of engineering in SWE.
+I'm learning git now.
